@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">Taif City Tour Guide</string>
+
+    <!-- The hotel information-->
+
+    <!-- The hotel name -->
+    <string name="le_meridien_al_hada">Le Méridien Al Hada</string>
+    <string name="interContinental_taif">InterContinental Taif</string>
+
+    <!-- The hotel address -->
+    <string name="le_meridien_al_hada_address" translatable="false">geo:0,0?q=Le Méridien Al Hada, Alhada Ring Road, Taif 26794
+    </string>
+    <string name="interContinental_taif_address" translatable="false">geo:0,0?q=InterContinental Taif, Airport Road, Taif 26565</string>
+
+
+    <!-- The restaurant information -->
+
+    <!-- The restaurant name -->
+    <string name="awaliv_revolving_restaurant">Awaliv Revolving Restaurant</string>
+    <string name="mabshoor_al_taif">Mabshoor Al Taif</string>
+
+    <!-- The restaurant address -->
+    <string name="awaliv_revolving_restaurant_address" translatable="false">geo:0,0?q=revolving restaurant, Al Jaysh, Shubra, Taif
+        26523
+    </string>
+    <string name="mabshoor_al_taif_address" translatable="false">geo:0,0?q=Mabshoor Al Taif, Airport Road, Near Rahma Mosque, Al
+        Qumariyyah، Arayyan, At Taif 26523
+    </string>
+
+
+    <!-- The park information -->
+
+    <!-- The park name -->
+    <string name="arruddaf_park">Arruddaf Park</string>
+    <string name="king_fahad_park">King Fahad Park</string>
+
+    <!-- The park address -->
+    <string name="arruddaf_park_address" translatable="false">geo:0,0?q=Arruddaf Park, Abu Talib, As Sadad, Taif 26514</string>
+    <string name="king_fahad_park_address" translatable="false">geo:0,0?q=King Fahad Park, Al Khalidiyyah, Al Khalidiyyah, At Taif
+        26521
+    </string>
+
+    <!-- The mall information -->
+
+    <!-- The mall name -->
+    <string name="jouri_mall">Jouri Mall</string>
+    <string name="taif_heart_mall">Taif Heart Mall</string>
+
+    <!-- The park address -->
+    <string name="jouri_mall_address" translatable="false">geo:0,0?q=Jouri Mall, Khalid bin Walid Road، Al Qutbiyyah, At Taif 26523</string>
+    <string name="taif_heart_mall_address" translatable="false">geo:0,0?q=Taif Heart Mall, Al Jaysh street, Shubra, Taif 70700</string>
+
+
+    <!-- The tabs name-->
+
+    <string name="hotel">Hotels</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="park">Parks</string>
+    <string name="mall">Malls</string>
+
+
+</resources>
